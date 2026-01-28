@@ -378,7 +378,7 @@ html{
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(../images/banner-backgroundimage1.png);
+    background-image: linear-gradient(rgba(49, 83, 71, 0.7), rgba(49, 83, 71, 0.7)), url(../images/banner-backgroundimage1.png);
 }
 .banner-con .icons {
     position: absolute;
